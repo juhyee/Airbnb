@@ -7,7 +7,7 @@
    {
     "itemName": "컬처 아이콘",
     "itemLink": "#02",
-    "itemImg": "/assets/carousel/carousel02.webp"
+    "itemImg": "./assets/carousel/carousel02.webp"
   },
    {
     "itemName": "멋진 수영장",
