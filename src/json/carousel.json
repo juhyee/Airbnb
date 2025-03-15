@@ -12,12 +12,12 @@
    {
     "itemName": "멋진 수영장",
     "itemLink": "#03",
-    "itemImg": "/assets/carousel/carousel03.jpg"
+    "itemImg": "./src/assets/carousel/carousel03.jpg"
   },
   {
     "itemName": "방",
     "itemLink": "#04",
-    "itemImg": "/assets/carousel/carousel04.jpg"
+    "itemImg": "https://github.com/juhyee/airbnb/juhyee.github.io/Airbnb/src/assets/carousel/carousel04.jpg"
   },
   {
     "itemName": "농장",
