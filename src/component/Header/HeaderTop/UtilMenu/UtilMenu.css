@@ -1,4 +1,4 @@
-.utilMenu {display: flex; align-items: center;}
+.utilMenu {display: flex; align-items: center; margin-left: -15px;}
 
 .utilMenu__link {height: 42px; padding: 12px 16px; margin-left: -3px; border-radius: 22px; box-sizing: border-box;}
 .utilMenu__link:hover {background-color: #f7f7f7;}
