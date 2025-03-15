@@ -22,12 +22,12 @@
   {
     "itemName": "농장",
     "itemLink": "#05",
-    "itemImg": "/assets/carousel/carousel05.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel05.jpg"
   },
    {
     "itemName": "인기 급상승",
     "itemLink": "#06",
-    "itemImg": "/assets/carousel/carousel06.jpg"
+    "itemImg": "https://juhyee.github.io/Airbnb/assets/carousel/carousel06.jpg"
   },
   {
     "itemName": "한적한 시골",
