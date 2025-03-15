@@ -2,22 +2,22 @@
   {
     "itemName": "해변 바로 앞",
     "itemLink": "#01",
-    "itemImg": "https://juhyee.github.io/Airbnb/src/assets/carousel/carousel01.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel01.jpg"
   },
    {
     "itemName": "컬처 아이콘",
     "itemLink": "#02",
-    "itemImg": "./assets/carousel/carousel02.webp"
+    "itemImg": "/Airbnb/assets/carousel/carousel02.webp"
   },
    {
     "itemName": "멋진 수영장",
     "itemLink": "#03",
-    "itemImg": "./src/assets/carousel/carousel03.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel03.jpg"
   },
   {
     "itemName": "방",
     "itemLink": "#04",
-    "itemImg": "https://github.com/juhyee/airbnb/juhyee.github.io/Airbnb/src/assets/carousel/carousel04.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel04.jpg"
   },
   {
     "itemName": "농장",
@@ -27,131 +27,131 @@
    {
     "itemName": "인기 급상승",
     "itemLink": "#06",
-    "itemImg": "https://juhyee.github.io/Airbnb/assets/carousel/carousel06.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel06.jpg"
   },
   {
     "itemName": "한적한 시골",
     "itemLink": "#07",
-    "itemImg": "/Airbnb/src/assets/carousel/carousel07.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel07.jpg"
   },
   {
     "itemName": "한옥",
     "itemLink": "#07",
-    "itemImg": "Airbnb/src/assets/carousel/carousel08.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel08.jpg"
   },
   {
     "itemName": "최고의 전망",
     "itemLink": "#08",
-    "itemImg": "./Airbnb/src/assets/carousel/carousel08.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel08.jpg"
   },
   {
     "itemName": "기상천외한 숙소",
     "itemLink": "#09",
-    "itemImg": "/assets/carousel/carousel09.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel09.jpg"
   },
    {
     "itemName": "국립공원",
     "itemLink": "#10",
-    "itemImg": "/assets/carousel/carousel10.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel10.jpg"
   },
    {
     "itemName": "섬",
     "itemLink": "#11",
-    "itemImg": "/assets/carousel/carousel11.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel11.jpg"
   },
    {
     "itemName": "캐슬",
     "itemLink": "#12",
-    "itemImg": "/assets/carousel/carousel12.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel12.jpg"
   },
   {
     "itemName": "키즈",
     "itemLink": "#13",
-    "itemImg": "/assets/carousel/carousel13.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel13.jpg"
   },
   {
     "itemName": "동굴",
     "itemLink": "#14",
-    "itemImg": "/assets/carousel/carousel14.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel14.jpg"
   },
   {
     "itemName": "통나무집",
     "itemLink": "#15",
-    "itemImg": "/assets/carousel/carousel15.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel15.jpg"
   },
   {
     "itemName": "트리하우스",
     "itemLink": "#16",
-    "itemImg": "/assets/carousel/carousel16.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel16.jpg"
   },
   {
     "itemName": "호수 근처",
     "itemLink": "#17",
-    "itemImg": "/assets/carousel/carousel17.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel17.jpg"
   },
   {
     "itemName": "유르트",
     "itemLink": "#18",
-    "itemImg": "/assets/carousel/carousel18.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel18.jpg"
   },
   {
     "itemName": "스키 타고 출입",
     "itemLink": "#19",
-    "itemImg": "/assets/carousel/carousel19.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel19.jpg"
   },
   {
     "itemName": "보트",
     "itemLink": "#20",
-    "itemImg": "/assets/carousel/carousel20.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel20.jpg"
   },
   {
     "itemName": "컨테이너",
     "itemLink": "#21",
-    "itemImg": "/assets/carousel/carousel21.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel21.jpg"
   },
   {
     "itemName": "세상의 꼭대기",
     "itemLink": "#22",
-    "itemImg": "/assets/carousel/carousel22.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel22.jpg"
   },
   {
     "itemName": "와인 농장",
     "itemLink": "#23",
-    "itemImg": "/assets/carousel/carousel23.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel23.jpg"
   },
   {
     "itemName": "료칸",
     "itemLink": "#24",
-    "itemImg": "/assets/carousel/carousel24.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel24.jpg"
   },
   {
     "itemName": "호숫가",
     "itemLink": "#25",
-    "itemImg": "/assets/carousel/carousel25.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel25.jpg"
   },
   {
     "itemName": "캠핑장",
     "itemLink": "#26",
-    "itemImg": "/assets/carousel/carousel26.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel26.jpg"
   },
   {
     "itemName": "A자형 주택",
     "itemLink": "#27",
-    "itemImg": "/assets/carousel/carousel27.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel27.jpg"
   },
   {
     "itemName": "속세를 벗어난 숙소",
     "itemLink": "#28",
-    "itemImg": "/assets/carousel/carousel28.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel28.jpg"
   },
   {
     "itemName": "Luxe",
     "itemLink": "#29",
-    "itemImg": "/assets/carousel/carousel29.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel29.jpg"
   },
   {
     "itemName": "B&B",
     "itemLink": "#30",
-    "itemImg": "/assets/carousel/carousel30.jpg"
+    "itemImg": "/Airbnb/assets/carousel/carousel30.jpg"
   }
 ]
