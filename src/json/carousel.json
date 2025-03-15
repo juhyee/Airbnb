@@ -32,17 +32,17 @@
   {
     "itemName": "한적한 시골",
     "itemLink": "#07",
-    "itemImg": "/assets/carousel/carousel07.jpg"
+    "itemImg": "/Airbnb/src/assets/carousel/carousel07.jpg"
   },
   {
     "itemName": "한옥",
     "itemLink": "#07",
-    "itemImg": "/assets/carousel/carousel08.jpg"
+    "itemImg": "Airbnb/src/assets/carousel/carousel08.jpg"
   },
   {
     "itemName": "최고의 전망",
     "itemLink": "#08",
-    "itemImg": "/assets/carousel/carousel08.jpg"
+    "itemImg": "./Airbnb/src/assets/carousel/carousel08.jpg"
   },
   {
     "itemName": "기상천외한 숙소",
